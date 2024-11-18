@@ -124,5 +124,5 @@ print(plan)
 ![image](https://github.com/user-attachments/assets/5467a5d7-144b-4e3b-bdea-850180112934)
 
 ### Result:
-Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
+Therefore,Implementation of Classical Planning Algorithm is done successfully.
 
